@@ -102,8 +102,8 @@
 // let matn = Boolean(balans);
 // console.log( matn)
 
-// for (let i = 0; i <= 10; i++) {
-// console.log(i*2);}
+for (let i = 0; i <= 10; i++) {
+console.log(i*2);}
 
 // const alls = ["Red", "blue", "yellow", "black", "white"]
 // for(let numbers of alls ){
