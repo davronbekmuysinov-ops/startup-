@@ -5,11 +5,25 @@
 // console.log(i*2)
 // i++
 // }
-let i = 10
-while(i > 0){
-console.log(i*2)
-i--
+
+
+// let i = 10
+// while(i > 0){
+// console.log(i)
+// i--
+// }
+
+let user = 1234
+let i = prompt("parolingizni kiriting:")
+if(i == user){
+    console.log("true")
 }
+else{
+    console.log("false");
+    
+}
+
+
 
 
 
