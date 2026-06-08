@@ -102,10 +102,15 @@
 // let matn = Boolean(balans);
 // console.log( matn)
 
-for (let i = 0; i <= 10; i++) {
-console.log(i*2);}
+// for (let i = 0; i <= 10; i++) {
+// console.log(i*2);}
 
-const alls = ["Red", "blue", "yellow", "black", "white"]
-for(let numbers of alls ){
-    console.log(numbers.toUpperCase());
-}
+// const alls = ["Red", "blue", "yellow", "black", "white"]
+// for(let numbers of alls ){
+//     console.log(numbers.toUpperCase());
+// }
+
+
+let ism = prompt("ismingizni kiriting")
+alert("Salom  " + ism)
+
