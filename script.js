@@ -121,3 +121,6 @@ console.log(typeof result)
 let age = 18
 console.log(age == "18")
 console.log(age === "18")
+for(let age1 = 0; age1 < 18; age1++) {
+    console.log(age1)
+}
