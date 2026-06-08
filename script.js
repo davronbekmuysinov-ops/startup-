@@ -111,6 +111,9 @@
 // }
 
 
-let ism = prompt("ismingizni kiriting")
+let ism = prompt("ismingizni nma")
 alert("Salom  " + ism)
 
+let yosh = prompt("yoshingizni kiriting")
+let yosh = Number(yosh)
+console.log(yosh)
