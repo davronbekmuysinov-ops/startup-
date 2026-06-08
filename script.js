@@ -1,16 +1,33 @@
-let ism = prompt("ismingizni nma")
-alert("Salom  " + ism)
 
-let yosh = prompt("yoshingizni kiriting")
-let result = Number(yosh)
-console.log(result)
-console.log(typeof result)
-let age = 18
-console.log(age == "18")
-console.log(age === "18")
-for(let age1 = 0; age1 < 18; age1++) {
-    console.log(age1)
+
+// let i = 0
+// while(i <= 10){
+// console.log(i*2)
+// i++
+// }
+let i = 10
+while(i > 0){
+console.log(i*2)
+i--
 }
+
+
+
+
+
+// let ism = prompt("ismingizni nma")
+// alert("Salom  " + ism)
+
+// let yosh = prompt("yoshingizni kiriting")
+// let result = Number(yosh)
+// console.log(result)
+// console.log(typeof result)
+// let age = 18
+// console.log(age == "18")
+// console.log(age === "18")
+// for(let age1 = 0; age1 < 18; age1++) {
+//     console.log(age1)
+// }
 
 // console.log(2+2)
 
