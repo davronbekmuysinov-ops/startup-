@@ -12,8 +12,6 @@ for(let age1 = 0; age1 < 18; age1++) {
     console.log(age1)
 }
 
-
-
 // console.log(2+2)
 
 
