@@ -115,5 +115,9 @@ let ism = prompt("ismingizni nma")
 alert("Salom  " + ism)
 
 let yosh = prompt("yoshingizni kiriting")
-let yosh = Number("yosh")
-console.log(yosh)
+let result = Number(yosh)
+console.log(result)
+console.log(typeof result)
+let age = 18
+console.log(age == "18")
+console.log(age === "18")
