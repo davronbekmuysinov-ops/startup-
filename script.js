@@ -1,4 +1,120 @@
 
+// 1-vazifa
+// let son = 0
+// let son1 = prompt("Sonni kriting:")
+// if (son1 > son) {
+//     console.log("Musbat son");
+    
+// }
+// else{
+//     console.log("Manfiy son")
+// }
+
+// 2-vazifa
+// let son = 18
+// let son1 = prompt("Yoshni kriting:")
+// if (son1 >= son) {
+//     console.log("Kirish mumkin");
+    
+// }
+// else{
+//     console.log("Kirish mumkin emas")
+// }
+
+// 3-vazifa
+    // let son = "admin"
+    // let son1 = prompt("Log in:")
+    // if (son1 == son) {
+    //     console.log("Xush kwlibsiz");
+        
+    // }
+    // else{
+    //     console.log("Noto'g'ri login")
+    // }
+
+//4-vazifa
+// let son = Number(prompt("Sonni kirit:"));
+
+// if (son >= 1,  son <= 10) {
+//     console.log("Kichik");
+// } else if (son >= 11,  son <= 100) {
+//     console.log("O'rta");
+// } else if (son > 100) {
+//     console.log("Katta");
+// }
+
+//5-vazifa
+// let son = prompt("Sonni kiriting")
+// if (son == 1) {
+//     console.log("Dushanba");
+// }
+// else if(son == 2){
+//     console.log("Seshanba");
+// }
+// else if(son == 3){
+//     console.log("Chorshanba");
+// }
+// else if(son == 4){
+//     console.log("Payshanba");
+// }
+// else if(son == 5){
+//     console.log("Juma");
+// }
+// else if(son == 6){
+//     console.log("Shanba");
+// }
+// else if( son == 7){
+//     console.log("Yakshanba");   
+// } else{
+//     console.log("Bu songa xos hafta kuni yo'q");
+// }
+
+// 6-vazifa
+// let ism = prompt("ism kiriting:");
+
+// while (ism !== "stop") {
+//     console.log(ism);
+//     ism = prompt("Yana kiriting:");
+// }
+
+// 7-vazifa
+// let son1 = prompt("Son kiriting")
+
+// while (son1 <= 0) {
+//     console.log("False");
+//     son1 = prompt("yana kirirting")
+// }
+
+// 8-vazifa
+// let son = 3
+// while (son <= 50) {
+//     console.log(son);
+//     son += 3
+// }
+
+// 9-vazifa
+// let son;
+// do {
+//     son = prompt("son kiriting:");
+// } while (son <= 10); 
+
+// console.log(son);
+
+//10-vazifa
+// let savol;
+// do {
+//     savol = prompt("Yes ning tarjimasi nima");
+// } while (savol !== "ha"); 
+
+// console.log(savol);
+
+// 11-vazifa
+// let = 
+
+
+
+
+
 
 // let i = 0
 // while(i <= 10){
@@ -13,15 +129,16 @@
 // i--
 // }
 
-let user = 1234
-let i = prompt("parolingizni kiriting:")
-if(i == user){
-    console.log("true")
-}
-else{
-    console.log("false");
+// let user = 1234
+
+// let i = +prompt("parolingizni kiriting:")
+// if(i === user){
+//     console.log("true")
+// }
+// else{
+//     console.log("false");
     
-}
+// }
 
 
 
