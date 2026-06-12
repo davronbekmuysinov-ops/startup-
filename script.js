@@ -22,17 +22,17 @@
 // }
 
 // 3-vazifa
-    // let son = "admin"
-    // let son1 = prompt("Log in:")
-    // if (son1 == son) {
-    //     console.log("Xush kwlibsiz");
+//     let son = "admin"
+//     let son1 = prompt("Log in:")
+//     if (son1 == son) {
+//         console.log("Xush kwlibsiz");
         
-    // }
-    // else{
-    //     console.log("Noto'g'ri login")
-    // }
+//     }
+//     else{
+//         console.log("Noto'g'ri login")
+//     }
 
-//4-vazifa
+// 4-vazifa
 // let son = Number(prompt("Sonni kirit:"));
 
 // if (son >= 1,  son <= 10) {
@@ -43,7 +43,7 @@
 //     console.log("Katta");
 // }
 
-//5-vazifa
+// 5-vazifa
 // let son = prompt("Sonni kiriting")
 // if (son == 1) {
 //     console.log("Dushanba");
@@ -100,7 +100,7 @@
 
 // console.log(son);
 
-//10-vazifa
+// 10-vazifa
 // let savol;
 // do {
 //     savol = prompt("Yes ning tarjimasi nima");
@@ -108,8 +108,84 @@
 
 // console.log(savol);
 
-// 11-vazifa
-// let = 
+// let user = prompt("Yoshingizni kiriting:")
+// let chipta = confirm("Chiptangiz bormi?")
+
+// if (user >= 18 && chipta == true) {
+//     console.log("Ruxsat berildi");
+// }
+// else{
+//     console.log("Ruxsat yo'q");
+    
+// }
+
+
+// let yosh = prompt("Yoshingizni kiriting:")
+// yosh >= 18;  yosh <= 25
+// let sat = prompt("SAT balingiz necha?")
+// sat >= 1200 ; sat <= 1600
+// let ielts = prompt("IELTS balingiz necha?")
+// ielts >= 6.5 ; ielts <= 9
+// if (yosh <= 25 && sat >= 1200 && ielts >= 6.5) {
+//     console.log("Grand berildi!!!");
+// }
+// else{
+//  console.log("Grand berilmadi!!!");
+
+// }
+
+
+
+// let loyiha = prompt("Amaliydan baho:")
+// let test = prompt("Testdan baho:")
+// if (loyiha >= 80 && test >= 90) {
+//     console.log("O'tdi");
+// }
+// else{
+//     console.log("O'tolmadi")
+// }
+
+
+
+// let isBlcocked = false
+// let admin = true
+// if (isBlcocked !== false && admin == true) {
+//     console.log("Ruxsat berildi!");
+// }
+// else{
+//     console.log("Ruxsat berilmadi!");
+// }
+
+
+let select = +prompt("1 -> Qo'shish (+) 2 -> Ayirish (-)  3 -> Ko'paytirish (*)  4 -> Bo'lish ")
+
+let son1 = +prompt("son kiriting:")
+let son2 = +prompt("2-sonni kiriting:")
+switch(select){
+case 1:
+    console.log(son1 + son2);
+    break
+
+case 2:
+    console.log(son1 - son2);
+    break
+
+case 3:
+    console.log(son1 * son2);
+    break
+
+case 4:
+    console.log(son1 / son2);
+    break
+
+default:
+    console.log("Xato");
+}
+
+
+
+
+
 
 
 
@@ -139,6 +215,11 @@
 //     console.log("false");
     
 // }
+
+
+
+
+
 
 
 
